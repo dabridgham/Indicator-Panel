@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# indicator-panel-rescue_BARREL_JACK-conn
+# BARREL_JACK-conn
 #
-DEF indicator-panel-rescue_BARREL_JACK-conn CON 0 40 Y Y 1 F N
+DEF BARREL_JACK-conn CON 0 40 Y Y 1 F N
 F0 "CON" 0 250 60 H V C CNN
-F1 "indicator-panel-rescue_BARREL_JACK-conn" 0 -200 60 H V C CNN
+F1 "BARREL_JACK-conn" 0 -200 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -22,11 +22,11 @@ X ~ 3 300 0 200 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_CONN_01X08-conn
+# CONN_01X08-conn
 #
-DEF indicator-panel-rescue_CONN_01X08-conn P 0 40 Y N 1 F N
+DEF CONN_01X08-conn P 0 40 Y N 1 F N
 F0 "P" 0 450 50 H V C CNN
-F1 "indicator-panel-rescue_CONN_01X08-conn" 100 0 50 V V C CNN
+F1 "CONN_01X08-conn" 100 0 50 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -56,11 +56,11 @@ X P8 8 -200 -350 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_CONN_01X10-conn
+# CONN_01X10-conn
 #
-DEF indicator-panel-rescue_CONN_01X10-conn P 0 40 Y N 1 F N
+DEF CONN_01X10-conn P 0 40 Y N 1 F N
 F0 "P" 0 550 50 H V C CNN
-F1 "indicator-panel-rescue_CONN_01X10-conn" 100 0 50 V V C CNN
+F1 "CONN_01X10-conn" 100 0 50 V V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -94,11 +94,11 @@ X P9 9 -200 -350 150 R 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_CP_Small-device
+# CP_Small-device
 #
-DEF indicator-panel-rescue_CP_Small-device C 0 10 N N 1 F N
+DEF CP_Small-device C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "indicator-panel-rescue_CP_Small-device" 10 -80 50 H V L CNN
+F1 "CP_Small-device" 10 -80 50 H V L CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -119,11 +119,11 @@ X ~ 2 0 -100 73 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_C_Small-device
+# C_Small-device
 #
-DEF indicator-panel-rescue_C_Small-device C 0 10 N N 1 F N
+DEF C_Small-device C 0 10 N N 1 F N
 F0 "C" 10 70 50 H V L CNN
-F1 "indicator-panel-rescue_C_Small-device" 10 -80 50 H V L CNN
+F1 "C_Small-device" 10 -80 50 H V L CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -141,11 +141,11 @@ X ~ 2 0 -100 80 U 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_LD1117S33CTR-regul
+# LD1117S33CTR-regul
 #
-DEF indicator-panel-rescue_LD1117S33CTR-regul U 0 30 Y Y 1 F N
+DEF LD1117S33CTR-regul U 0 30 Y Y 1 F N
 F0 "U" 0 250 40 H V C CNN
-F1 "indicator-panel-rescue_LD1117S33CTR-regul" 0 200 40 H V C CNN
+F1 "LD1117S33CTR-regul" 0 200 40 H V C CNN
 F2 "SOT-223" 0 100 40 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -159,11 +159,11 @@ X VI 3 -400 50 150 R 40 40 1 1 W
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_LED-45-myLib
+# LED-45-myLib
 #
-DEF indicator-panel-rescue_LED-45-myLib D 0 40 Y N 1 F N
+DEF LED-45-myLib D 0 40 Y N 1 F N
 F0 "D" -50 200 50 H V C CNN
-F1 "indicator-panel-rescue_LED-45-myLib" -50 -150 50 H V C CNN
+F1 "LED-45-myLib" -50 -150 50 H V C CNN
 F2 "" 100 50 60 V V C CNN
 F3 "" 100 50 60 V V C CNN
 $FPLIST
@@ -188,11 +188,11 @@ X A 2 -150 150 0 R 40 40 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_MAX3033E-myLib
+# MAX3033E-myLib
 #
-DEF indicator-panel-rescue_MAX3033E-myLib U 0 1 Y Y 1 F N
+DEF MAX3033E-myLib U 0 1 Y Y 1 F N
 F0 "U" 550 250 60 H V C CNN
-F1 "indicator-panel-rescue_MAX3033E-myLib" 100 250 60 H V C CNN
+F1 "MAX3033E-myLib" 100 250 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 $FPLIST
@@ -233,11 +233,11 @@ X I3 9 -200 -700 200 R 50 50 0 1 I
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_MAX3094E-myLib
+# MAX3094E-myLib
 #
-DEF indicator-panel-rescue_MAX3094E-myLib U 0 40 Y Y 1 F N
+DEF MAX3094E-myLib U 0 40 Y Y 1 F N
 F0 "U" 550 250 60 H V C CNN
-F1 "indicator-panel-rescue_MAX3094E-myLib" 100 250 60 H V C CNN
+F1 "MAX3094E-myLib" 100 250 60 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW
@@ -273,11 +273,11 @@ X D- 9 -200 -1000 200 R 50 50 0 1 I I
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_R-device
+# R-device
 #
-DEF indicator-panel-rescue_R-device R 0 0 N Y 1 F N
+DEF R-device R 0 0 N Y 1 F N
 F0 "R" 80 0 50 V V C CNN
-F1 "indicator-panel-rescue_R-device" 0 0 50 V V C CNN
+F1 "R-device" 0 0 50 V V C CNN
 F2 "" -70 0 30 V V C CNN
 F3 "" 0 0 30 H V C CNN
 $FPLIST
@@ -291,11 +291,11 @@ X ~ 2 0 -150 50 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_STP16CP05-myLib
+# STP16CP05-myLib
 #
-DEF indicator-panel-rescue_STP16CP05-myLib U 0 40 Y Y 1 F N
+DEF STP16CP05-myLib U 0 40 Y Y 1 F N
 F0 "U" -250 -1150 60 H V C CNN
-F1 "indicator-panel-rescue_STP16CP05-myLib" -100 -1300 60 H V C CNN
+F1 "STP16CP05-myLib" -100 -1300 60 H V C CNN
 F2 "" -150 50 60 H V C CNN
 F3 "" -150 50 60 H V C CNN
 $FPLIST
@@ -333,73 +333,16 @@ X OUT4 9 750 -500 200 L 50 50 0 1 O I
 ENDDRAW
 ENDDEF
 #
-# indicator-panel-rescue_TEST_1P-indicator-panel-rescue
+# TEST_1P-indicator-panel-rescue
 #
-DEF indicator-panel-rescue_TEST_1P-indicator-panel-rescue J 0 30 N N 1 F N
+DEF TEST_1P-indicator-panel-rescue J 0 30 N N 1 F N
 F0 "J" 0 270 50 H V C CNN
-F1 "indicator-panel-rescue_TEST_1P-indicator-panel-rescue" 0 200 50 H V C CNN
+F1 "TEST_1P-indicator-panel-rescue" 0 200 50 H V C CNN
 F2 "" 200 0 50 H I C CNN
 F3 "" 200 0 50 H I C CNN
 DRAW
 C 0 130 30 0 1 0 N
 X 1 1 0 0 100 U 50 50 1 1 P
-ENDDRAW
-ENDDEF
-#
-# power_+12V
-#
-DEF power_+12V #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 -150 50 H I C CNN
-F1 "power_+12V" 0 140 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-P 2 0 1 0 -30 50 0 100 N
-P 2 0 1 0 0 0 0 100 N
-P 2 0 1 0 0 100 30 50 N
-X +12V 1 0 0 0 U 50 50 1 1 W N
-ENDDRAW
-ENDDEF
-#
-# power_+3.3V
-#
-DEF power_+3.3V #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 -150 50 H I C CNN
-F1 "power_+3.3V" 0 140 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-ALIAS +3.3V
-DRAW
-P 2 0 1 0 -30 50 0 100 N
-P 2 0 1 0 0 0 0 100 N
-P 2 0 1 0 0 100 30 50 N
-X +3V3 1 0 0 0 U 50 50 1 1 W N
-ENDDRAW
-ENDDEF
-#
-# power_GND
-#
-DEF power_GND #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 -250 50 H I C CNN
-F1 "power_GND" 0 -150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-P 6 0 1 0 0 0 0 -50 50 -50 0 -100 -50 -50 0 -50 N
-X GND 1 0 0 0 D 50 50 1 1 W N
-ENDDRAW
-ENDDEF
-#
-# power_PWR_FLAG
-#
-DEF power_PWR_FLAG #FLG 0 0 N N 1 F P
-F0 "#FLG" 0 75 50 H I C CNN
-F1 "power_PWR_FLAG" 0 150 50 H V C CNN
-F2 "" 0 0 50 H I C CNN
-F3 "" 0 0 50 H I C CNN
-DRAW
-P 6 0 1 0 0 0 0 50 -40 75 0 100 40 75 0 50 N
-X pwr 1 0 0 0 U 50 50 0 0 w
 ENDDRAW
 ENDDEF
 #

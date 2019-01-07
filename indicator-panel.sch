@@ -15,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L myLib:STP16CP05 U102
+L indicator-panel-rescue:STP16CP05-myLib U102
 U 1 1 56197266
 P 1550 4200
 F 0 "U102" V 1750 3300 60  0000 C CNN
@@ -27,7 +27,7 @@ F 4 "STP16CP05MTR" H 1550 4200 60  0001 C CNN "manf#"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L myLib:LED-45 D101
+L indicator-panel-rescue:LED-45-myLib D101
 U 1 1 56197293
 P 1700 1100
 F 0 "D101" H 1700 1300 50  0000 C CNN
@@ -39,7 +39,7 @@ F 4 "QBLP631-IW" H 1700 1100 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D102
+L indicator-panel-rescue:LED-45-myLib D102
 U 1 1 5619731C
 P 1700 1600
 F 0 "D102" H 1700 1800 50  0000 C CNN
@@ -50,7 +50,7 @@ F 3 "" V 1800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D103
+L indicator-panel-rescue:LED-45-myLib D103
 U 1 1 56197345
 P 1700 2100
 F 0 "D103" H 1700 2300 50  0000 C CNN
@@ -61,7 +61,7 @@ F 3 "" V 1800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D104
+L indicator-panel-rescue:LED-45-myLib D104
 U 1 1 56197377
 P 1700 2600
 F 0 "D104" H 1700 2800 50  0000 C CNN
@@ -83,7 +83,7 @@ F 3 "" H 1550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D105
+L indicator-panel-rescue:LED-45-myLib D105
 U 1 1 56197C50
 P 2200 1100
 F 0 "D105" H 2200 1300 50  0000 C CNN
@@ -94,7 +94,7 @@ F 3 "" V 2300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D106
+L indicator-panel-rescue:LED-45-myLib D106
 U 1 1 56197C56
 P 2200 1600
 F 0 "D106" H 2200 1800 50  0000 C CNN
@@ -105,7 +105,7 @@ F 3 "" V 2300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D107
+L indicator-panel-rescue:LED-45-myLib D107
 U 1 1 56197C5C
 P 2200 2100
 F 0 "D107" H 2200 2300 50  0000 C CNN
@@ -116,7 +116,7 @@ F 3 "" V 2300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D108
+L indicator-panel-rescue:LED-45-myLib D108
 U 1 1 56197C62
 P 2200 2600
 F 0 "D108" H 2200 2800 50  0000 C CNN
@@ -138,7 +138,7 @@ F 3 "" H 2050 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D109
+L indicator-panel-rescue:LED-45-myLib D109
 U 1 1 56197DA3
 P 2700 1100
 F 0 "D109" H 2700 1300 50  0000 C CNN
@@ -149,7 +149,7 @@ F 3 "" V 2800 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D110
+L indicator-panel-rescue:LED-45-myLib D110
 U 1 1 56197DA9
 P 2700 1600
 F 0 "D110" H 2700 1800 50  0000 C CNN
@@ -160,7 +160,7 @@ F 3 "" V 2800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D111
+L indicator-panel-rescue:LED-45-myLib D111
 U 1 1 56197DAF
 P 2700 2100
 F 0 "D111" H 2700 2300 50  0000 C CNN
@@ -171,7 +171,7 @@ F 3 "" V 2800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D112
+L indicator-panel-rescue:LED-45-myLib D112
 U 1 1 56197DB5
 P 2700 2600
 F 0 "D112" H 2700 2800 50  0000 C CNN
@@ -193,7 +193,7 @@ F 3 "" H 2550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D113
+L indicator-panel-rescue:LED-45-myLib D113
 U 1 1 56197DCD
 P 3200 1100
 F 0 "D113" H 3200 1300 50  0000 C CNN
@@ -204,7 +204,7 @@ F 3 "" V 3300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D114
+L indicator-panel-rescue:LED-45-myLib D114
 U 1 1 56197DD3
 P 3200 1600
 F 0 "D114" H 3200 1800 50  0000 C CNN
@@ -215,7 +215,7 @@ F 3 "" V 3300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D115
+L indicator-panel-rescue:LED-45-myLib D115
 U 1 1 56197DD9
 P 3200 2100
 F 0 "D115" H 3200 2300 50  0000 C CNN
@@ -226,7 +226,7 @@ F 3 "" V 3300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D116
+L indicator-panel-rescue:LED-45-myLib D116
 U 1 1 56197DDF
 P 3200 2600
 F 0 "D116" H 3200 2800 50  0000 C CNN
@@ -303,7 +303,7 @@ F 3 "" H 3200 10150 60  0000 C CNN
 	1    0    0    1   
 $EndComp
 $Comp
-L myLib:STP16CP05 U103
+L indicator-panel-rescue:STP16CP05-myLib U103
 U 1 1 5619ABB1
 P 3550 4200
 F 0 "U103" V 3750 3350 60  0000 C CNN
@@ -315,7 +315,7 @@ F 4 "STP16CP05MTR" H 3550 4200 60  0001 C CNN "manf#"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L myLib:LED-45 D117
+L indicator-panel-rescue:LED-45-myLib D117
 U 1 1 5619ABB7
 P 3700 1100
 F 0 "D117" H 3700 1300 50  0000 C CNN
@@ -326,7 +326,7 @@ F 3 "" V 3800 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D118
+L indicator-panel-rescue:LED-45-myLib D118
 U 1 1 5619ABBD
 P 3700 1600
 F 0 "D118" H 3700 1800 50  0000 C CNN
@@ -337,7 +337,7 @@ F 3 "" V 3800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D119
+L indicator-panel-rescue:LED-45-myLib D119
 U 1 1 5619ABC3
 P 3700 2100
 F 0 "D119" H 3700 2300 50  0000 C CNN
@@ -348,7 +348,7 @@ F 3 "" V 3800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D120
+L indicator-panel-rescue:LED-45-myLib D120
 U 1 1 5619ABC9
 P 3700 2600
 F 0 "D120" H 3700 2800 50  0000 C CNN
@@ -370,7 +370,7 @@ F 3 "" H 3550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D121
+L indicator-panel-rescue:LED-45-myLib D121
 U 1 1 5619ABE1
 P 4200 1100
 F 0 "D121" H 4200 1300 50  0000 C CNN
@@ -381,7 +381,7 @@ F 3 "" V 4300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D122
+L indicator-panel-rescue:LED-45-myLib D122
 U 1 1 5619ABE7
 P 4200 1600
 F 0 "D122" H 4200 1800 50  0000 C CNN
@@ -392,7 +392,7 @@ F 3 "" V 4300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D123
+L indicator-panel-rescue:LED-45-myLib D123
 U 1 1 5619ABED
 P 4200 2100
 F 0 "D123" H 4200 2300 50  0000 C CNN
@@ -403,7 +403,7 @@ F 3 "" V 4300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D124
+L indicator-panel-rescue:LED-45-myLib D124
 U 1 1 5619ABF3
 P 4200 2600
 F 0 "D124" H 4200 2800 50  0000 C CNN
@@ -425,7 +425,7 @@ F 3 "" H 4050 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D125
+L indicator-panel-rescue:LED-45-myLib D125
 U 1 1 5619AC0B
 P 4700 1100
 F 0 "D125" H 4700 1300 50  0000 C CNN
@@ -436,7 +436,7 @@ F 3 "" V 4800 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D126
+L indicator-panel-rescue:LED-45-myLib D126
 U 1 1 5619AC11
 P 4700 1600
 F 0 "D126" H 4700 1800 50  0000 C CNN
@@ -447,7 +447,7 @@ F 3 "" V 4800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D127
+L indicator-panel-rescue:LED-45-myLib D127
 U 1 1 5619AC17
 P 4700 2100
 F 0 "D127" H 4700 2300 50  0000 C CNN
@@ -458,7 +458,7 @@ F 3 "" V 4800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D128
+L indicator-panel-rescue:LED-45-myLib D128
 U 1 1 5619AC1D
 P 4700 2600
 F 0 "D128" H 4700 2800 50  0000 C CNN
@@ -480,7 +480,7 @@ F 3 "" H 4550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D129
+L indicator-panel-rescue:LED-45-myLib D129
 U 1 1 5619AC35
 P 5200 1100
 F 0 "D129" H 5200 1300 50  0000 C CNN
@@ -491,7 +491,7 @@ F 3 "" V 5300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D130
+L indicator-panel-rescue:LED-45-myLib D130
 U 1 1 5619AC3B
 P 5200 1600
 F 0 "D130" H 5200 1800 50  0000 C CNN
@@ -502,7 +502,7 @@ F 3 "" V 5300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D131
+L indicator-panel-rescue:LED-45-myLib D131
 U 1 1 5619AC41
 P 5200 2100
 F 0 "D131" H 5200 2300 50  0000 C CNN
@@ -513,7 +513,7 @@ F 3 "" V 5300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D132
+L indicator-panel-rescue:LED-45-myLib D132
 U 1 1 5619AC47
 P 5200 2600
 F 0 "D132" H 5200 2800 50  0000 C CNN
@@ -535,7 +535,7 @@ F 3 "" H 5050 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:STP16CP05 U106
+L indicator-panel-rescue:STP16CP05-myLib U106
 U 1 1 5619B531
 P 5550 4200
 F 0 "U106" V 5750 3300 60  0000 C CNN
@@ -547,7 +547,7 @@ F 4 "STP16CP05MTR" H 5550 4200 60  0001 C CNN "manf#"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L myLib:LED-45 D133
+L indicator-panel-rescue:LED-45-myLib D133
 U 1 1 5619B537
 P 5700 1100
 F 0 "D133" H 5700 1300 50  0000 C CNN
@@ -558,7 +558,7 @@ F 3 "" V 5800 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D134
+L indicator-panel-rescue:LED-45-myLib D134
 U 1 1 5619B53D
 P 5700 1600
 F 0 "D134" H 5700 1800 50  0000 C CNN
@@ -569,7 +569,7 @@ F 3 "" V 5800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D135
+L indicator-panel-rescue:LED-45-myLib D135
 U 1 1 5619B543
 P 5700 2100
 F 0 "D135" H 5700 2300 50  0000 C CNN
@@ -580,7 +580,7 @@ F 3 "" V 5800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D136
+L indicator-panel-rescue:LED-45-myLib D136
 U 1 1 5619B549
 P 5700 2600
 F 0 "D136" H 5700 2800 50  0000 C CNN
@@ -602,7 +602,7 @@ F 3 "" H 5550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D137
+L indicator-panel-rescue:LED-45-myLib D137
 U 1 1 5619B564
 P 6200 1100
 F 0 "D137" H 6200 1300 50  0000 C CNN
@@ -613,7 +613,7 @@ F 3 "" V 6300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D138
+L indicator-panel-rescue:LED-45-myLib D138
 U 1 1 5619B56A
 P 6200 1600
 F 0 "D138" H 6200 1800 50  0000 C CNN
@@ -624,7 +624,7 @@ F 3 "" V 6300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D139
+L indicator-panel-rescue:LED-45-myLib D139
 U 1 1 5619B570
 P 6200 2100
 F 0 "D139" H 6200 2300 50  0000 C CNN
@@ -635,7 +635,7 @@ F 3 "" V 6300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D140
+L indicator-panel-rescue:LED-45-myLib D140
 U 1 1 5619B576
 P 6200 2600
 F 0 "D140" H 6200 2800 50  0000 C CNN
@@ -657,7 +657,7 @@ F 3 "" H 6050 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D141
+L indicator-panel-rescue:LED-45-myLib D141
 U 1 1 5619B591
 P 6700 1100
 F 0 "D141" H 6700 1300 50  0000 C CNN
@@ -668,7 +668,7 @@ F 3 "" V 6800 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D142
+L indicator-panel-rescue:LED-45-myLib D142
 U 1 1 5619B597
 P 6700 1600
 F 0 "D142" H 6700 1800 50  0000 C CNN
@@ -679,7 +679,7 @@ F 3 "" V 6800 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D143
+L indicator-panel-rescue:LED-45-myLib D143
 U 1 1 5619B59D
 P 6700 2100
 F 0 "D143" H 6700 2300 50  0000 C CNN
@@ -690,7 +690,7 @@ F 3 "" V 6800 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D144
+L indicator-panel-rescue:LED-45-myLib D144
 U 1 1 5619B5A3
 P 6700 2600
 F 0 "D144" H 6700 2800 50  0000 C CNN
@@ -712,7 +712,7 @@ F 3 "" H 6550 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D145
+L indicator-panel-rescue:LED-45-myLib D145
 U 1 1 5619B5BE
 P 7200 1100
 F 0 "D145" H 7200 1300 50  0000 C CNN
@@ -723,7 +723,7 @@ F 3 "" V 7300 1150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D146
+L indicator-panel-rescue:LED-45-myLib D146
 U 1 1 5619B5C4
 P 7200 1600
 F 0 "D146" H 7200 1800 50  0000 C CNN
@@ -734,7 +734,7 @@ F 3 "" V 7300 1650 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D147
+L indicator-panel-rescue:LED-45-myLib D147
 U 1 1 5619B5CA
 P 7200 2100
 F 0 "D147" H 7200 2300 50  0000 C CNN
@@ -745,7 +745,7 @@ F 3 "" V 7300 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:LED-45 D148
+L indicator-panel-rescue:LED-45-myLib D148
 U 1 1 5619B5D0
 P 7200 2600
 F 0 "D148" H 7200 2800 50  0000 C CNN
@@ -767,7 +767,7 @@ F 3 "" H 7050 800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:R R101
+L indicator-panel-rescue:R-device R101
 U 1 1 561A517F
 P 2550 4800
 F 0 "R101" V 2630 4800 50  0000 C CNN
@@ -778,7 +778,7 @@ F 3 "" H 2550 4800 30  0000 C CNN
 	0    -1   1    0   
 $EndComp
 $Comp
-L device:R R102
+L indicator-panel-rescue:R-device R102
 U 1 1 561A53B8
 P 4550 4800
 F 0 "R102" V 4630 4800 50  0000 C CNN
@@ -801,7 +801,7 @@ F 3 "" H 4700 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:R R103
+L indicator-panel-rescue:R-device R103
 U 1 1 561A5648
 P 6550 4800
 F 0 "R103" V 6630 4800 50  0000 C CNN
@@ -823,7 +823,7 @@ F 3 "" H 6700 4800 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L regul:LD1117S33CTR U108
+L indicator-panel-rescue:LD1117S33CTR-regul U108
 U 1 1 561A8377
 P 2100 9200
 F 0 "U108" H 2100 9450 40  0000 C CNN
@@ -857,7 +857,7 @@ F 3 "" H 2850 9150 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L device:C_Small C107
+L indicator-panel-rescue:C_Small-device C107
 U 1 1 561AD213
 P 2150 10150
 F 0 "C107" H 2160 10220 50  0000 L CNN
@@ -868,7 +868,7 @@ F 3 "" H 2150 10150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:C_Small C105
+L indicator-panel-rescue:C_Small-device C105
 U 1 1 561AD343
 P 1450 10150
 F 0 "C105" H 1460 10220 50  0000 L CNN
@@ -879,7 +879,7 @@ F 3 "" H 1450 10150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:C_Small C103
+L indicator-panel-rescue:C_Small-device C103
 U 1 1 561AD424
 P 850 10150
 F 0 "C103" H 860 10220 50  0000 L CNN
@@ -891,7 +891,7 @@ F 4 "C0805C104K3RACT" H 850 10150 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:C_Small C104
+L indicator-panel-rescue:C_Small-device C104
 U 1 1 561AD50C
 P 1150 10150
 F 0 "C104" H 1160 10220 50  0000 L CNN
@@ -902,7 +902,7 @@ F 3 "" H 1150 10150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:C_Small C106
+L indicator-panel-rescue:C_Small-device C106
 U 1 1 561AD607
 P 1800 10150
 F 0 "C106" H 1810 10220 50  0000 L CNN
@@ -913,7 +913,7 @@ F 3 "" H 1800 10150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:CP_Small C101
+L indicator-panel-rescue:CP_Small-device C101
 U 1 1 56788205
 P 1600 9300
 F 0 "C101" H 1610 9370 50  0000 L CNN
@@ -925,7 +925,7 @@ F 4 "TAJR104K020RNJ" H 1600 9300 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:CP_Small C102
+L indicator-panel-rescue:CP_Small-device C102
 U 1 1 567882C6
 P 2600 9300
 F 0 "C102" H 2610 9370 50  0000 L CNN
@@ -937,7 +937,7 @@ F 4 "TPSP106M010R2000" H 2600 9300 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L conn:BARREL_JACK J101
+L indicator-panel-rescue:BARREL_JACK-conn J101
 U 1 1 56980F06
 P 2000 8050
 F 0 "J101" H 2000 8300 60  0000 C CNN
@@ -1059,7 +1059,7 @@ F 3 "" H 1300 9400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L myLib:MAX3094E U101
+L indicator-panel-rescue:MAX3094E-myLib U101
 U 1 1 56CC5E5F
 P 1900 6200
 F 0 "U101" H 2550 6450 60  0000 C CNN
@@ -1071,7 +1071,7 @@ F 4 "MAX3094ECSE+" H 1900 6200 60  0001 C CNN "manf#"
 	0    -1   -1   0   
 $EndComp
 $Comp
-L conn:CONN_01X10 P101
+L indicator-panel-rescue:CONN_01X10-conn P101
 U 1 1 56CC6D79
 P 900 6950
 F 0 "P101" H 900 7500 50  0000 C CNN
@@ -1083,7 +1083,7 @@ F 4 "68021-210HLF" H 900 6950 60  0001 C CNN "manf#"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L conn:CONN_01X08 P103
+L indicator-panel-rescue:CONN_01X08-conn P103
 U 1 1 56CC6EC8
 P 900 8800
 F 0 "P103" H 900 9250 50  0000 C CNN
@@ -1095,7 +1095,7 @@ F 4 "68021-208HLF" H 900 8800 60  0001 C CNN "manf#"
 	-1   0    0    -1  
 $EndComp
 $Comp
-L conn:CONN_01X10 P102
+L indicator-panel-rescue:CONN_01X10-conn P102
 U 1 1 56CC791A
 P 7400 6950
 F 0 "P102" H 7400 7500 50  0000 C CNN
@@ -1107,7 +1107,7 @@ F 4 "68021-210HLF" H 7400 6950 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L conn:CONN_01X08 P104
+L indicator-panel-rescue:CONN_01X08-conn P104
 U 1 1 56CC8882
 P 7400 8800
 F 0 "P104" H 7400 9250 50  0000 C CNN
@@ -1119,7 +1119,7 @@ F 4 "68021-208HLF" H 7400 8800 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:R R105
+L indicator-panel-rescue:R-device R105
 U 1 1 56CCA5D4
 P 1500 6850
 F 0 "R105" V 1580 6850 50  0000 C CNN
@@ -1130,7 +1130,7 @@ F 3 "" H 1500 6850 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L device:R R104
+L indicator-panel-rescue:R-device R104
 U 1 1 56CCA809
 P 1500 6550
 F 0 "R104" V 1580 6550 50  0000 C CNN
@@ -1142,7 +1142,7 @@ F 4 "RC0805JR-07150RL" V 1500 6550 60  0001 C CNN "manf#"
 	0    1    1    0   
 $EndComp
 $Comp
-L device:R R106
+L indicator-panel-rescue:R-device R106
 U 1 1 56CCA903
 P 1500 7350
 F 0 "R106" V 1580 7350 50  0000 C CNN
@@ -1153,7 +1153,7 @@ F 3 "" H 1500 7350 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L device:R R107
+L indicator-panel-rescue:R-device R107
 U 1 1 56CCA9FA
 P 1500 7050
 F 0 "R107" V 1580 7050 50  0000 C CNN
@@ -1164,7 +1164,7 @@ F 3 "" H 1500 7050 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L myLib:MAX3033E U104
+L indicator-panel-rescue:MAX3033E-myLib U104
 U 1 1 56CCF130
 P 6450 5600
 F 0 "U104" H 7000 5850 60  0000 C CNN
@@ -1198,7 +1198,7 @@ F 3 "" H 3200 7400 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:R R110
+L indicator-panel-rescue:R-device R110
 U 1 1 56CD7A92
 P 3200 6850
 F 0 "R110" V 3280 6850 50  0000 C CNN
@@ -1210,7 +1210,7 @@ F 4 "RC0805JR-071KL" V 3200 6850 60  0001 C CNN "manf#"
 	1    0    0    -1  
 $EndComp
 $Comp
-L device:R R111
+L indicator-panel-rescue:R-device R111
 U 1 1 56CD7CB3
 P 3200 7250
 F 0 "R111" V 3280 7250 50  0000 C CNN
@@ -2019,7 +2019,7 @@ F 3 "" H 850 10050 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L indicator-panel-rescue:TEST_1P J103
+L indicator-panel-rescue:TEST_1P-indicator-panel-rescue J103
 U 1 1 5A4009D2
 P 6650 8900
 F 0 "J103" H 6650 9170 50  0000 C CNN
@@ -2030,7 +2030,7 @@ F 3 "" H 6850 8900 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L indicator-panel-rescue:TEST_1P J102
+L indicator-panel-rescue:TEST_1P-indicator-panel-rescue J102
 U 1 1 5A40116B
 P 6400 8900
 F 0 "J102" H 6400 9170 50  0000 C CNN
