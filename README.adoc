@@ -1,17 +1,22 @@
 = Indicator Panel
 
-This is an attempt to replicate the functionality of DEC's indicator
-panels used on PDP-11s and some other machines.  It was designed in
-conjunction with the QSIC project to build a QBUS board to emulate the
-old DEC disk drives using more modern storage technology and we wanted
-to have blinkenlights to go with.
+Here we replicate the functionality of DEC's indicator panels used on
+PDP-11s and some other machines.  It was designed in conjunction with
+the http://github.com/dabridgham/QSIC[QSIC project] to build a QBUS
+board to emulate the old DEC disk drives using more modern storage
+technology and we wanted to have blinkenlights to go with.
 
-indicator-panel*::
-   KiCad design for the indicator panel boards themselves.  Three
-   boards make a full indicator panel.
+indicator-panel*:: KiCad design for the indicator panel circuit boards
+   themselves.  Three boards make a full indicator panel.
 
 adapter*:: A small adapter board to convert from the version 1 pinout
    to version 2.
 
 inlay*:: Various inlay designs we've come up with to use with the
    QSIC.
+   * inlay-qbus: QBUS monitor.
+   * inlay-rk11-f: Used for both the RK11-F and the RP11-D, the new
+      controllers we've created for the QSIC.
+   * inlay-rk11: Our idea of what the RK11-C indicator panel might
+     have looked like.
+   * inlay-rp11: The RP11 indicator panel rendered here.
