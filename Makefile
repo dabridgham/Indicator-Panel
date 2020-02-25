@@ -1,5 +1,5 @@
-PDFS = inlay-qbus.pdf inlay-rk11.pdf inlay-rp11.pdf inlay-rk11-f.pdf
-PNGS = inlay-qbus.png inlay-rk11-f.png inlay-rp11.png
+PDFS = inlay-qbus.pdf inlay-unibus.pdf inlay-rk11.pdf inlay-rp11.pdf inlay-rk11-f.pdf
+PNGS = inlay-qbus.png inlay-unibus.png inlay-rk11-f.png inlay-rp11.png
 EPS = inlay-qbus.eps inlay-rk11-f.eps
 
 all: $(PDFS) $(PNGS)
