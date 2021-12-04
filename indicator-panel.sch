@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:indicator-panel-cache
-EELAYER 26 0
+EELAYER 30 0
 EELAYER END
 $Descr USLetter 8500 11000 portrait
 encoding utf-8
@@ -942,7 +941,7 @@ U 1 1 56980F06
 P 2000 8050
 F 0 "J101" H 2000 8300 60  0000 C CNN
 F 1 "Power In (5 - 12V)" H 2000 7850 60  0000 C CNN
-F 2 "myMods.pretty:PJ-032B" H 2000 8050 60  0001 C CNN
+F 2 "myMods:PJ-032B" H 2000 8050 60  0001 C CNN
 F 3 "" H 2000 8050 60  0000 C CNN
 F 4 "PJ-032B" H 2000 8050 60  0001 C CNN "manf#"
 	1    2000 8050
@@ -2263,4 +2262,81 @@ Wire Wire Line
 	1200 7200 1200 7500
 Wire Wire Line
 	7100 7200 7100 7550
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 5FC2A1A4
+P 750 900
+F 0 "FID1" H 835 946 50  0000 L CNN
+F 1 "Fiducial" H 835 855 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 750 900 50  0001 C CNN
+F 3 "~" H 750 900 50  0001 C CNN
+	1    750  900 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 5FC40805
+P 750 1125
+F 0 "FID2" H 835 1171 50  0000 L CNN
+F 1 "Fiducial" H 835 1080 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 750 1125 50  0001 C CNN
+F 3 "~" H 750 1125 50  0001 C CNN
+	1    750  1125
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 5FC40B3B
+P 750 1350
+F 0 "FID3" H 835 1396 50  0000 L CNN
+F 1 "Fiducial" H 835 1305 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 750 1350 50  0001 C CNN
+F 3 "~" H 750 1350 50  0001 C CNN
+	1    750  1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID4
+U 1 1 5FC40FA2
+P 750 1575
+F 0 "FID4" H 835 1621 50  0000 L CNN
+F 1 "Fiducial" H 835 1530 50  0000 L CNN
+F 2 "Fiducial:Fiducial_1mm_Mask2mm" H 750 1575 50  0001 C CNN
+F 3 "~" H 750 1575 50  0001 C CNN
+	1    750  1575
+	1    0    0    -1  
+$EndComp
+$Comp
+L Graphic:Logo_Open_Hardware_Small PowerLogo1
+U 1 1 5FC4613B
+P 900 2100
+F 0 "PowerLogo1" H 900 2375 50  0001 C CNN
+F 1 "Power Logo" H 900 1850 50  0000 C CNN
+F 2 "myMods:Barrel" H 900 2100 50  0001 C CNN
+F 3 "~" H 900 2100 50  0001 C CNN
+	1    900  2100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H101
+U 1 1 5FC4F784
+P 775 2700
+F 0 "H101" H 875 2746 50  0000 L CNN
+F 1 "MountingHole" H 875 2655 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm" H 775 2700 50  0001 C CNN
+F 3 "~" H 775 2700 50  0001 C CNN
+	1    775  2700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H102
+U 1 1 5FC50D54
+P 775 2975
+F 0 "H102" H 875 3021 50  0000 L CNN
+F 1 "MountingHole" H 875 2930 50  0000 L CNN
+F 2 "MountingHole:MountingHole_3.5mm" H 775 2975 50  0001 C CNN
+F 3 "~" H 775 2975 50  0001 C CNN
+	1    775  2975
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
