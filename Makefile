@@ -20,10 +20,10 @@ clean:
 .SUFFIXES: .svg .pdf .ps .png .eps
 
 .svg.pdf:
-	inkscape --export-pdf=$@ $<
+	inkscape --export-filename=$@ $<
 
 .svg.png:
-	inkscape --export-png=$@ $<
+	inkscape --export-filename=$@ $<
 
 .svg.eps:
 	inkscape --export-text-to-path --export-eps=$@ $<
