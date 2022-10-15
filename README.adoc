@@ -15,8 +15,9 @@ adapter*:: A small adapter board to convert from the version 1 pinout
 inlay*:: Various inlay designs we've come up with to use with the
    QSIC.
    * inlay-qbus: QBUS monitor.
+   * inlay-rk11-c: Our idea of what the RK11-C indicator panel might
+     have looked like.
    * inlay-rk11-f: Used for both the RK11-F and the RP11-D, the new
       controllers we've created for the QSIC.
-   * inlay-rk11: Our idea of what the RK11-C indicator panel might
-     have looked like.
    * inlay-rp11: The RP11 indicator panel rendered here.
+   * inlay-unibus: Unibus monitor.
